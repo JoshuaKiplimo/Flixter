@@ -22,7 +22,7 @@
 
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/JoshuaKiplimo/Flixter/blob/master/flixter2.gif" width=250><br>
 
 ### Notes
 
